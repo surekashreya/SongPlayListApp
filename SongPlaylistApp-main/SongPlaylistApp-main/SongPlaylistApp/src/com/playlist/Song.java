@@ -1,4 +1,4 @@
-package com.abhay;
+package com.playlist;
 
 public class Song {
     private String title;
